@@ -1,0 +1,24 @@
+{
+  "name": "node6es2015",
+  "version": "1.0.0",
+  "description": "Node 6 ES 2015 examples",
+  "main": "start.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidfekke/node6es2015.git"
+  },
+  "keywords": [
+    "Node6",
+    "es2015",
+    "ES6"
+  ],
+  "author": "David Fekke <david@fekke.com> (http://fek.io)",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/davidfekke/node6es2015/issues"
+  },
+  "homepage": "https://github.com/davidfekke/node6es2015#readme"
+}
