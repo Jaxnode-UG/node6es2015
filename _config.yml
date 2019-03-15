@@ -1,0 +1,8 @@
+title: Node6es2015
+description: ES2015 examples for Node 6
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
